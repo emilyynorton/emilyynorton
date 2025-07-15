@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://your-username.github.io/emilyynorton/basketball-svgrepo-com.svg" width="200" />
+
