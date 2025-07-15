@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://your-username.github.io/emilyynorton/basketball-svgrepo-com.svg" width="200" />
+<img src="https://emilyynorton.github.io/emilyynorton/basketball-svgrepo-com.svg" width="200" />
 
