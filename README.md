@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi!
 
 <!--
 **emilyynorton/emilyynorton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://emilyynorton.github.io/emilyynorton/basketball-svgrepo-com.svg" width="200" />
+<!-- <img src="https://emilyynorton.github.io/emilyynorton/basketball-svgrepo-com.svg" width="200" /> -->
 
